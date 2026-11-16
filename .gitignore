@@ -1,0 +1,12 @@
+target/
+build/
+dist/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+nbproject/private/
+node_modules/
+.env
+*.log
